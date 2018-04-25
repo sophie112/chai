@@ -1,6 +1,10 @@
 # Sci Chicken
 
+<<<<<<< HEAD
 A PUBG pcap playback system that does not hog CPU/GPU, works with version 3.7.28.9.
+=======
+A PUBG pcap playback system that does not hog CPU/GPU, works with version 3.7.19.
+>>>>>>> parent of 4ec7620... Update README.md
 
 ## Sniff
 
